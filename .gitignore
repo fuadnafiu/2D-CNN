@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+hurricane_data/
+data/
+temp_extracted/
+*.pyc
+*.ipynb_checkpoints/
